@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Lemmie",
+        "last_name": "Gordge",
+        "email": "lgordge0@paginegialle.it",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Rollie",
+        "last_name": "Rizzo",
+        "email": "rrizzo1@woothemes.com",
+        "gender": "Male"
+    },
+    {
+        "id": 3,
+        "first_name": "Chryste",
+        "last_name": "Matiewe",
+        "email": "cmatiewe2@accuweather.com",
+        "gender": "Female"
+    },
+    {
+        "id": 4,
+        "first_name": "Stanislaw",
+        "last_name": "Doddridge",
+        "email": "sdoddridge3@nih.gov",
+        "gender": "Male"
+    },
+    {
+        "id": 5,
+        "first_name": "Wilmette",
+        "last_name": "Coppenhall",
+        "email": "wcoppenhall4@themeforest.net",
+        "gender": "Polygender"
+    },
+    {
+        "id": 6,
+        "first_name": "Gertie",
+        "last_name": "Langmead",
+        "email": "glangmead5@dailymail.co.uk",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Pinchas",
+        "last_name": "Kitchenside",
+        "email": "pkitchenside6@clickbank.net",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Page",
+        "last_name": "Brimicombe",
+        "email": "pbrimicombe7@yahoo.co.jp",
+        "gender": "Male"
+    },
+    {
+        "id": 9,
+        "first_name": "Alison",
+        "last_name": "Wadsworth",
+        "email": "awadsworth8@upenn.edu",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Ambrosius",
+        "last_name": "McIlvaney",
+        "email": "amcilvaney9@devhub.com",
+        "gender": "Male"
+    }
+]
